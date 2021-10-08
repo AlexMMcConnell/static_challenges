@@ -1,0 +1,71 @@
+body {
+  background-color: #242424;
+  color: white
+}
+
+#left-heading {
+  width: 80%;
+  float: left;
+  padding: 20px;
+  font-size: 20px;
+  text-align: left;
+  background-color: #242424
+}
+
+#right-heading {
+  width: 10%;
+  float: right;
+  background-color: green;
+  padding: 20px 10px;
+  text-align: center
+}
+
+#nav {
+  text-align: center;
+  outline-offset: 56px;
+  outline: 1px solid white
+}
+
+#building {
+  width: 27%;
+  float: left;
+  background-color: navy;
+  padding: 15px 10px 15px 70px
+}
+
+#art {
+  width: 27%;
+  float: left;
+  background-color: navy;
+  padding: 15px 5px 15px 5px
+}
+
+#featured {
+  width: 27%;
+  float: left;
+  background-color: navy;
+  padding: 15px 70px 15px 10px
+}
+
+#art-museum{
+  position: relative;
+  color: white;
+}
+
+#top-left{
+  position: absolute;
+  top: 140px;
+  left: 16px;
+  font-size: 25px
+}
+
+#info-about-museum{
+  font-size: 11px;
+  padding: 15px
+}
+
+#image-gallery{
+  background-color: white;
+  color: black;
+  padding: 20px
+}
